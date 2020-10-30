@@ -19,3 +19,7 @@ Frameworks
 Some Technologies
 <br>
 <img src="https://camo.githubusercontent.com/e5b599791fd4e8a9f6ad998541082174cc8cf16f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3232323232323f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d463035303332">
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amm834&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amm834&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
