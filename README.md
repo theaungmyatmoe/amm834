@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with JS
 - 💬 Ask me about PHP,JS
 - 📫 How to reach me: <a href="https://www.facebook.com/aungmyatmoe834">@aungmyatmoe834</a>
-- ⚡ Fun fact: 😆😂🤣
+- ⚡ Fun fact: I am cute boy 🙄
 
 Programming Languages
 <br>
