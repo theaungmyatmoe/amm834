@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on self projects
-- 🌱 I’m currently learning  PHP,JavaScript and Shell Scripting
+- 🌱 I’m currently learning  PHP advanced.
 - 🤔 I’m looking for help with JS
 - 💬 Ask me about PHP,JS
 - 📫 How to reach me: <a href="https://www.facebook.com/aungmyatmoe834">@aungmyatmoe834</a>
