@@ -35,8 +35,9 @@
 ## Other Tools And Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?style=plastic&logo=Linux)
-![Shell](https://img.shields.io/badge/-Git-000?style=plastic&logo=Git)
-![Git](https://img.shields.io/badge/-ShellScript-000?style=plastic&logo=Shell)
+![ShellScript](https://img.shields.io/badge/-ShellScript-000?style=plastic&logo=Shell)
+![Git](https://img.shields.io/badge/-Git-000?style=plastic&logo=Git)
+
 ![MD](https://img.shields.io/badge/-MarkDown-000?style=plastic&logo=Markdown)
 
 
