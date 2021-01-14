@@ -37,6 +37,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?style=plastic&logo=Linux)
 ![Shell](https://img.shields.io/badge/-Git-000?style=plastic&logo=Shell)
 ![Git](https://img.shields.io/badge/-ShellScript-000?style=plastic&logo=git)
+![MD](https://img.shields.io/badge/-MarkDown-000?style=plastic&logo=Markdown)
 
 
 
