@@ -14,11 +14,11 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-000?style=plastic&logo=PHP)
 
-## Query Family
+## Query And Database Family
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=plastic&logo=MySQL)
 
-## Multi Purpose Language
+## System Programming Language
 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=plastic&logo=Rust)
 
