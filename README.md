@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on self projects.
-- 🌱 I’m currently learning  LAMP Stack.
+- 🌱 I’m currently learning Rust and JS.
 - 💬 Ask me about UI,UX,JS,PHP and Shell.
 - 👀 Fun fact: I am cute 🙄
 
