@@ -3,18 +3,18 @@
 - 💬 Ask me about UI,UX,JS,PHP and Shell.
 - 👀 Fun fact: I am cute 🙄
 
-##  Frontend Family
+##  Frontend Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-000?style=plastic&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=plastic&logo=CSS3&logoColor=1572B6)
 ![JS](https://img.shields.io/badge/-JavaScript-000?style=plastic&logo=JavaScript)
 
 
-## Backend Family
+## Backend Technologies
 
 ![PHP](https://img.shields.io/badge/-PHP-000?style=plastic&logo=PHP)
 
-## Query And Database Family
+## DB Technologies
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=plastic&logo=MySQL)
 
@@ -23,7 +23,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-000?style=plastic&logo=Rust)
 
 
-## Libraries And Framworks
+## Libraries And Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=plastic&logo=Bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?style=plastic&logo=jQuery&logoColor=0769AD)
@@ -32,7 +32,7 @@
 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=plastic&logo=Laravel)
 
-## Other Tools And Technologies
+## Essential Tools & Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?style=plastic&logo=Linux)
 ![ShellScript](https://img.shields.io/badge/-ShellScript-000?style=plastic&logo=Shell)
