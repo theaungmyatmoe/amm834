@@ -4,8 +4,6 @@
 - 👀 Fun fact: I am cute 🙄
 
 
-![Linux](https://img.shields.io/static/v1?style=square&color=0F0F0F&logoColor=FFFFCC&logo=linux&label=&message=Linux)
-
 ##  Frontend Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-000?style=plastic&logo=HTML5)
