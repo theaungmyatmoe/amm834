@@ -3,7 +3,6 @@
 - 💬 Ask me about UI,UX,JS,PHP and Shell.
 - 👀 Fun fact: I am cute 🙄
 
-
 ##  Frontend Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-000?style=plastic&logo=HTML5)
@@ -40,5 +39,12 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=plastic&logo=Git)
 
 ![MD](https://img.shields.io/badge/-MarkDown-000?style=plastic&logo=Markdown)
+
+## Featured Projects
+
+![VPN Server List UI Project](https://img.shields.io/badge/-VPN_Servers_List_UI-def?style=plastic)
+
+![VPN Server List Backend Project](https://img.shields.io/badge/-VPN_Servers_List_Backend-def?style=plastic)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amm834&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
