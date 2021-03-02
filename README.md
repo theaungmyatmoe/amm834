@@ -42,9 +42,9 @@
 
 ## Featured Projects
 
-![VPN Server List UI Project](https://img.shields.io/badge/-VPN_Servers_List_UI-def?style=plastic)
+![VPN Server List UI Project](https://img.shields.io/badge/-VPN_Servers_List_UI-000?style=plastic)
 
-![VPN Server List Backend Project](https://img.shields.io/badge/-VPN_Servers_List_Backend-def?style=plastic)
+![VPN Server List Backend Project](https://img.shields.io/badge/-VPN_Servers_List_Backend-000?style=plastic)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amm834&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
