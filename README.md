@@ -42,8 +42,9 @@
 
 ## Featured Projects
 
-![VPN Server List UI Project](https://img.shields.io/badge/-VPN_Servers_List_UI-000?style=plastic)
+![E Commerce with Own Framework](https://img.shields.io/badge/-E_Commerence_with_Own_Framework-000?style=plastic)
 
+![VPN Server List UI Project](https://img.shields.io/badge/-VPN_Servers_List_UI-000?style=plastic) 
 ![VPN Server List Backend Project](https://img.shields.io/badge/-VPN_Servers_List_Backend-000?style=plastic)
 
 
