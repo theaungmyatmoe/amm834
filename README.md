@@ -1,7 +1,9 @@
 - 🔭 I’m currently working on self projects.
-- 🌱 I’m currently learning Rust and JS.
+- 🌱 I’m currently learning Rust,Java and JS Frameworks.
 - 💬 Ask me about UI,UX,JS,PHP and Shell.
 - 👀 Fun fact: I am cute 🙄
+
+> I'm very interesting in creating my own things.
 
 ##  Frontend Technologies
 
