@@ -44,7 +44,7 @@
 
 ## Featured Projects
 
-![E Commerce with my Own PHP Framework](https://img.shields.io/badge/-E_Commerence_with_My_Own_PHP_Framework-000?style=plastic)
+[![E Commerce with my Own PHP Framework](https://img.shields.io/badge/-E_Commerence_with_My_Own_PHP_Framework-000?style=plastic)](https://github.com/amm834/E-commerce)
 
 [![VPN Server List UI Project](https://img.shields.io/badge/-VPN_Servers_List_UI-000?style=plastic)](https://mmcyberyouth.github.io/VPNList_UI/)
 [![VPN Server List Backend Project](https://img.shields.io/badge/-VPN_Servers_List_Backend-000?style=plastic)](https://github.com/mmcyberyouth/mcy_vpn)
