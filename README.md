@@ -46,7 +46,8 @@
 
 ![E Commerce with my Own PHP Framework](https://img.shields.io/badge/-E_Commerence_with_My_Own_PHP_Framework-000?style=plastic)
 
-[![VPN Server List UI Project](https://img.shields.io/badge/-VPN_Servers_List_UI-000?style=plastic) ![VPN Server List Backend Project](https://img.shields.io/badge/-VPN_Servers_List_Backend-000?style=plastic)](https://mmcyberyouth.github.io/VPNList_UI/)
+[![VPN Server List UI Project](https://img.shields.io/badge/-VPN_Servers_List_UI-000?style=plastic)](https://mmcyberyouth.github.io/VPNList_UI/)
+[![VPN Server List Backend Project](https://img.shields.io/badge/-VPN_Servers_List_Backend-000?style=plastic)](https://github.com/mmcyberyouth/mcy_vpn)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amm834&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
