@@ -36,10 +36,14 @@
 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=plastic&logo=Laravel)
 
-## Essential Tools & Technologies
+## Essential Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?style=plastic&logo=Linux)
 ![ShellScript](https://img.shields.io/badge/-ShellScript-000?style=plastic&logo=Shell)
+
+![NPM](https://img.shields.io/badge/-NPM-000?style=plastic&logo=NPM)
+![Composer](https://img.shields.io/badge/-Composer-000?style=plastic&logo=Composer)
+
 ![Git](https://img.shields.io/badge/-Git-000?style=plastic&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=plastic&logo=GitHub)
 
