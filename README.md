@@ -29,6 +29,7 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=plastic&logo=Bootstrap)
 ![Tail Wind](https://img.shields.io/badge/-Tail_Wind-000?style=plastic&logo=Tailwind-CSS)
+![Sass](https://img.shields.io/badge/-Sass-000?style=plastic&logo=Sass)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?style=plastic&logo=jQuery&logoColor=0769AD)
 ![Vue](https://img.shields.io/badge/-Vue.js-000?style=plastic&logo=Vue.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-000?style=plastic&logo=Vuetify&logoColor=1867C0)
