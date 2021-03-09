@@ -28,6 +28,7 @@
 ## Libraries And Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=plastic&logo=Bootstrap)
+![Tail Wind](https://img.shields.io/badge/-Tail_Wind-000?style=plastic&logo=Tailwind-CSS)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?style=plastic&logo=jQuery&logoColor=0769AD)
 ![Vue](https://img.shields.io/badge/-Vue.js-000?style=plastic&logo=Vue.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-000?style=plastic&logo=Vuetify&logoColor=1867C0)
@@ -39,6 +40,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?style=plastic&logo=Linux)
 ![ShellScript](https://img.shields.io/badge/-ShellScript-000?style=plastic&logo=Shell)
 ![Git](https://img.shields.io/badge/-Git-000?style=plastic&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=plastic&logo=GitHub)
 
 ![MD](https://img.shields.io/badge/-MarkDown-000?style=plastic&logo=Markdown)
 
