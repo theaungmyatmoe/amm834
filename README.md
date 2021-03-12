@@ -40,8 +40,9 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-000?style=plastic&logo=Linux)
 ![ShellScript](https://img.shields.io/badge/-ShellScript-000?style=plastic&logo=Shell)
-![NPM](https://img.shields.io/badge/-NPM-000?style=plastic&logo=NPM)
 ![Composer](https://img.shields.io/badge/-Composer-000?style=plastic&logo=Composer)
+![NPM](https://img.shields.io/badge/-NPM-000?style=plastic&logo=NPM)
+![Yarn](https://img.shields.io/badge/-Yarn-000?style=plastic&logo=Yarn)
 
 ![Git](https://img.shields.io/badge/-Git-000?style=plastic&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=plastic&logo=GitHub)
