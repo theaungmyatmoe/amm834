@@ -25,6 +25,10 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=plastic&logo=Rust)
 
+## Android Development
+
+![Java](https://img.shields.io/badge/-Java-000?style=plastic&logo=Java)
+
 
 ## Libraries And Frameworks
 
@@ -33,6 +37,8 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-000?style=plastic&logo=jQuery&logoColor=0769AD)
 ![Vue](https://img.shields.io/badge/-Vue.js-000?style=plastic&logo=Vue.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-000?style=plastic&logo=Vuetify&logoColor=1867C0)
+![Android Development](https://img.shields.io/badge/-Android-000?style=plastic&logo=android&logoColor=00FF00)
+
 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=plastic&logo=Laravel)
 
