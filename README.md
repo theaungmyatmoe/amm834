@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on self projects.
-- 🌱 I’m currently learning Rust,Java and JS Frameworks.
+- 🌱 I’m currently working EchoOfMyanmar Full Stack Project.
 - 💬 Ask me about UI,UX,JS,PHP and Shell.
 - 👀 Fun fact: I am cute 🙄
 
