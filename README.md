@@ -3,8 +3,6 @@
 - 💬 Ask me about UI,UX,JS,PHP and Shell.
 - 👀 Fun fact: I am cute 🙄
 
-> I'm very interesting in creating my own things.
-
 ##  Frontend Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-000?style=plastic&logo=HTML5)
