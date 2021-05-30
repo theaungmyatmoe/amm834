@@ -1,4 +1,4 @@
-<h1>#SaveMyanmar</h1>
+# \#SaveMyanmar
 
 - 🔭 I’m currently working on self projects.
 - 🌱 I’m currently working EchoOfMyanmar Full Stack Project.
@@ -7,19 +7,19 @@
 
 ##  Frontend Technologies
 
-![HTML](https://img.shields.io/badge/-HTML-000?style=plastic&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=plastic&logo=CSS3&logoColor=1572B6)
-![JS](https://img.shields.io/badge/-JavaScript-000?style=plastic&logo=JavaScript)
-![Sass](https://img.shields.io/badge/-Sass-000?style=plastic&logo=Sass)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=HTML5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=CSS3&logoColor=fff)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=000)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=plastic&logo=Sass&logoColor=ffffff)
 
 
 ## Backend Technologies
 
-![PHP](https://img.shields.io/badge/-PHP-000?style=plastic&logo=PHP)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=plastic&logo=PHP&logoColor=fff)
 
 ## DB Technologies
 
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=plastic&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=MySQL&logoColor=fff)
 
 ## System Programming Language
 
@@ -27,17 +27,17 @@
 
 ## Android Development
 
-![Java](https://img.shields.io/badge/-Java-000?style=plastic&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java)
 
 
 ## Libraries And Frameworks
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=plastic&logo=Bootstrap)
-![Tail Wind](https://img.shields.io/badge/-Tail_Wind-000?style=plastic&logo=Tailwind-CSS)
-![jQuery](https://img.shields.io/badge/-jQuery-000?style=plastic&logo=jQuery&logoColor=0769AD)
-![Vue](https://img.shields.io/badge/-Vue.js-000?style=plastic&logo=Vue.js&logoColor=4FC08D)
-![Vuetify](https://img.shields.io/badge/-Vuetify-000?style=plastic&logo=Vuetify&logoColor=1867C0)
-![Android Development](https://img.shields.io/badge/-Android-000?style=plastic&logo=android&logoColor=3DDC84)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=fff)
+![Tail Wind](https://img.shields.io/badge/-Tail_Wind-38B2AC?style=plastic&logo=Tailwind-CSS&logoColor=fff)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=plastic&logo=jQuery)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=plastic&logo=Vue-dot-js&logoColor=fff)
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=plastic&logo=Vuetify)
+![Android Development](https://img.shields.io/badge/-Android-3DDC84?style=plastic&logo=android&logoColor=fff)
 
 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=plastic&logo=Laravel)
