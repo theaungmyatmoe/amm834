@@ -6,7 +6,7 @@
 
 # Auto-Biography
 
-- I stared learning web developement in 2018 summer when Matrix exam was completed (I am just a 15 years old)
+- I started learning web developement in 2018 summer when Matrix exam was completed (I am just a 15 years old)
 - I pass matrix examination in 2019
 - I worked as guide teacher about 2 months in my Border (like private tution) 
 - And then I go to Pyay University as a Physics specialized student
