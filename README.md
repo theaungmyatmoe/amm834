@@ -1,4 +1,4 @@
-# Hello guys 😁,
+# Hello ,
 - 🔭 I’m currently learning Hacking and Low Level Programming Languages
 - 🌱 I’m currently working in Self Projects
 - 💬 Ask me about Full Stack Web Developement especially JavaScript, PHP and Rust
