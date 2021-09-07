@@ -17,7 +17,7 @@
   - [Twitter](https://twitter.com/amm834)
   - [Linkedin](https://linkedin.com/AungMyatMoe)
   
-I am writing technical articles that is realated with FSD (Full Stack Developemnt) at [Devdojo](https://amm834.devdojo.com), [Web Developer Environment - @webdevenv](https://facebook.com/webdevenv),[Dev.to](https://dev.to/amm834) and [Myanmar Cyber Youths - @myanmarcyberlink](https://facebook.com/myanmarcyberlink).
+I am writing technical articles that are realated with FSD (Full Stack Developemnt) at [Devdojo](https://amm834.devdojo.com), [Web Developer Environment - @webdevenv](https://facebook.com/webdevenv),[Dev.to](https://dev.to/amm834) and [Myanmar Cyber Youths - @myanmarcyberlink](https://facebook.com/myanmarcyberlink).
 
 ##  Frontend Technologies
 
