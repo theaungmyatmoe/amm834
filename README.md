@@ -1,6 +1,6 @@
 # Hello ,
 - 🔭 I’m currently learning Hacking and Low Level Programming Languages
-- 🌱 I’m currently working in Self Projects
+- 🌱 I’m currently working on C and Language Development, this will take too longggg 
 - 💬 Ask me about Full Stack Web Developement especially JavaScript, PHP and Rust
 - 👀 Fun fact: I am cute 🙄
 
