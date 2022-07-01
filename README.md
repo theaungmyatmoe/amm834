@@ -1,23 +1,9 @@
 # Hello ,
-- 🔭 I’m currently learning Hacking and Low Level Programming Languages
+- 🔭 I’m currently learning UI/UX 
 - 🌱 I’m currently working on C and Language Development, this will take too longggg 
 - 💬 Ask me about Full Stack Web Developement especially JavaScript, PHP and Rust
-- 👀 Fun fact: I am cute 🙄
+- 😆 Fun fact: I am fat 
 
-# Auto-Biography
-
-- I started learning web developement in 2018 summer when Matrix exam was completed (I am just a 15 years old)
-- I pass matrix examination in 2019
-- I worked as guide teacher about 2 months in my Border (like private tution) 
-- And then I go to Pyay University as a Physics specialized student
-- I am still a 1st year University student who love programming and Physics
-- Currently, I'm at home and learing new things like hacking, low level programming languages, politic, economic and so on
-- You can directly contact me via - 
-  - [Facebook](https://facebook.com/aungmyatmoe834)
-  - [Twitter](https://twitter.com/amm834)
-  - [Linkedin](https://linkedin.com/AungMyatMoe)
-  
-I am writing technical articles that are realated with FSD (Full Stack Developemnt) at [Devdojo](https://amm834.devdojo.com), [Web Developer Environment - @webdevenv](https://facebook.com/webdevenv),[Dev.to](https://dev.to/amm834) and [Myanmar Cyber Youths - @myanmarcyberlink](https://facebook.com/myanmarcyberlink).
 
 ##  Frontend Technologies
 
@@ -25,7 +11,6 @@ I am writing technical articles that are realated with FSD (Full Stack Developem
 ![CSS](https://img.shields.io/badge/-CSS-000?style=plastic&logo=CSS3&logoColor=1572B6)
 ![JS](https://img.shields.io/badge/-JavaScript-000?style=plastic&logo=JavaScript)
 ![Sass](https://img.shields.io/badge/-Sass-000?style=plastic&logo=Sass)
-
 
 ## Backend Technologies
 
