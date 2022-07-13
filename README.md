@@ -1,6 +1,6 @@
 # Hello ,
-- 🔭 I’m currently learning UI/UX 
-- 🌱 I’m currently working on C and Language Development, this will take too longggg 
+- 🔭 I’m currently learning UI/UX and System Design.
+- 🌱 I’m currently working on ...
 - 💬 Ask me about Full Stack Web Developement especially JavaScript, PHP and Rust
 - 😆 Fun fact: I am fat 
 
