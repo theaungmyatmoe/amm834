@@ -61,7 +61,7 @@
 [![VPN Server List Backend Project](https://img.shields.io/badge/-VPN_Servers_List_Backend-000?style=plastic)](https://github.com/mmcyberyouth/mcy_vpn)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amm834&layout=compact&theme=dracula&langs_count=20&hide=java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amm834&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 ![Aung Myat Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=amm834&show_icons=true&theme=dracula)
 
 
