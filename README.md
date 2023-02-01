@@ -1,5 +1,6 @@
 
- [🔹 Me](https://www.aungmyatmoe.me/) 
+ [🔹 Me](https://www.aungmyatmoe.me/)
+  [🔹 Blog](https://www.aungmyatmoe.me/articles) 
  [🔹 LinkedIn](https://www.linkedin.com/in/aungmyatmoe/)
  [🔹 Facebook](https://web.facebook.com/amm834/) 
  [🔹 Twitter](https://twitter.com/_amm834)
