@@ -1,4 +1,11 @@
-![Profile Viewer Counter](https://komarev.com/ghpvc/?username=amm834&color=brightgreen)
+
+ [🔹 Me](https://www.aungmyatmoe.me/) 
+ [🔹 LinkedIn](https://www.linkedin.com/in/aungmyatmoe/)
+ [🔹 Facebook](https://web.facebook.com/amm834/) 
+ [🔹 Twitter](https://twitter.com/_amm834)
+ [🔹 Hire Me](mailto:aungmyatmoe834@gmail.com)
+
+
 
 # About Me
 
@@ -12,3 +19,6 @@ I have about three years of experience as a web developer and love working with 
 I enjoy building elegant, interactive effect heavy javascript applications with an eye on animated content. In my spare time, I fancy playing football with my mates. Every once in a while, I tend to explore catching-edge technologies.
 
 Aside from work, I’ve worked on little projects over the years. Many of them are open-source. Hence, you can check out and contribute the code if you see any matters and ideas about how it should be enhanced and maintained.
+
+
+![Profile Viewer Counter](https://komarev.com/ghpvc/?username=amm834&color=brightgreen)
