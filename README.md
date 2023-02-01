@@ -1,69 +1,14 @@
 ![Profile Viewer Counter](https://komarev.com/ghpvc/?username=amm834&color=brightgreen)
 
-# Hello ,
-- 🔭 I’m currently learning UI/UX and System Design.
-- 🌱 I’m currently working on ...
-- 💬 Ask me about Full Stack Web Developement especially JavaScript, PHP and Rust
-- 😆 Fun fact: I am fat 
+# About Me
 
+> A software engineer and founder based in Letpadan. I’m the founder of Myanmar Cyber Youths and Web Dev Environment, where we develop technologies that empower regular people to explore space on their own terms.
 
-##  Frontend Technologies
+I’m Aung Myat Moe. I live in Letpadan, where I learn and develop for future.
+Letpadan is a small town where I grew up and had a buck of childhood memories. After I got my hands wet with Javascript, I soon discovered my passion was programming while hacking on some VPNs with Bash back in 2018.
 
-![HTML](https://img.shields.io/badge/-HTML-000?style=plastic&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=plastic&logo=CSS3&logoColor=1572B6)
-![JS](https://img.shields.io/badge/-JavaScript-000?style=plastic&logo=JavaScript)
-![Sass](https://img.shields.io/badge/-Sass-000?style=plastic&logo=Sass)
+I have about three years of experience as a web developer and love working with Laravel, Vue, React, Next, and other hip frameworks. I have experience in developing web services.
 
-## Backend Technologies
+I enjoy building elegant, interactive effect heavy javascript applications with an eye on animated content. In my spare time, I fancy playing football with my mates. Every once in a while, I tend to explore catching-edge technologies.
 
-![PHP](https://img.shields.io/badge/-PHP-000?style=plastic&logo=PHP)
-
-## DB Technologies
-
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=plastic&logo=MySQL)
-
-## System Programming Language
-
-![Rust](https://img.shields.io/badge/-Rust-000?style=plastic&logo=Rust)
-
-## Android Development
-
-![Java](https://img.shields.io/badge/-Java-000?style=plastic&logo=Java)
-
-
-## Libraries And Frameworks
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=plastic&logo=Bootstrap)
-![Tail Wind](https://img.shields.io/badge/-Tail_Wind-000?style=plastic&logo=Tailwind-CSS)
-![jQuery](https://img.shields.io/badge/-jQuery-000?style=plastic&logo=jQuery&logoColor=0769AD)
-![Vue](https://img.shields.io/badge/-Vue.js-000?style=plastic&logo=Vue-dot-js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-000?style=plastic&logo=Vuetify&logoColor=1867C0)
-![Android Development](https://img.shields.io/badge/-Android-000?style=plastic&logo=android&logoColor=00FF00)
-
-
-![Laravel](https://img.shields.io/badge/-Laravel-000?style=plastic&logo=Laravel)
-
-## Essential Tools and Technologies
-
-![Linux](https://img.shields.io/badge/-Linux-000?style=plastic&logo=Linux)
-![ShellScript](https://img.shields.io/badge/-ShellScript-000?style=plastic&logo=Shell)
-![Composer](https://img.shields.io/badge/-Composer-000?style=plastic&logo=Composer)
-![NPM](https://img.shields.io/badge/-NPM-000?style=plastic&logo=NPM)
-![Yarn](https://img.shields.io/badge/-Yarn-000?style=plastic&logo=Yarn)
-
-![Git](https://img.shields.io/badge/-Git-000?style=plastic&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=plastic&logo=GitHub)
-![MD](https://img.shields.io/badge/-MarkDown-000?style=plastic&logo=Markdown)
-
-## Featured Projects
-
-[![E Commerce using my Own PHP Framework](https://img.shields.io/badge/-E_Commerence_with_My_Own_PHP_Framework-000?style=plastic)](https://github.com/amm834/E-commerce)
-
-[![VPN Server List UI](https://img.shields.io/badge/-VPN_Servers_List_UI-000?style=plastic)](https://mmcyberyouth.github.io/VPNList_UI/)
-[![VPN Server List Backend](https://img.shields.io/badge/-VPN_Servers_List_Backend-000?style=plastic)](https://github.com/mmcyberyouth/mcy_vpn)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amm834&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-![Aung Myat Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=amm834&show_icons=true&theme=dracula)
-
-
+Aside from work, I’ve worked on little projects over the years. Many of them are open-source. Hence, you can check out and contribute the code if you see any matters and ideas about how it should be enhanced and maintained.
