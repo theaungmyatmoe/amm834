@@ -1,25 +1,35 @@
+## Who am I?
 
- [🔹 Me](https://www.aungmyatmoe.me/)
-  [🔹 Blog](https://www.aungmyatmoe.me/articles) 
- [🔹 LinkedIn](https://www.linkedin.com/in/aungmyatmoe/)
- [🔹 Facebook](https://web.facebook.com/amm834/) 
- [🔹 Twitter](https://twitter.com/_amm834)
- [🔹 Hire Me](mailto:aungmyatmoe834@gmail.com)
+Hello! I'm Aung Myat Moe, a senior software engineer with over 3.5 years of experience in web development. My expertise lies in building complex web applications using a range of frontend and backend technologies. I am skilled in working with databases and proficient in programming languages such as Rust and Golang. My technical background, attention to detail, and user-centered attitude drive me to deliver high-quality software.
+
+## Contact Information
+
+- [Mail](aungmyatmoe834@gmail.com)
+- [GitHub](https://github.com/amm834)
+- [LinkedIn](https://www.linkedin.com/in/aungmyatmoe)
+
+## Expertise
+
+### Frontend Skills
+- HTML, CSS, JavaScript, TypeScript
+- Bootstrap, Tailwind
+- React, Vue
+- React Query, React Hook Form, Yup, Zod, Redux Toolkit
+
+### Backend Skills
+- Node.js, PHP, Laravel
+- SQL, MySQL, MongoDB
+- AWS S3, Tebi, Cloudinary
+
+
+## Personal Hobbies
+
+- Gaming: Strategy-based video games
+- Blogging: Web development and system engineering topics
+- Reinventing: Seeking innovative solutions and process improvements
+- Reading Cartoon: Exploring storytelling techniques through cartoons
 
 
 
-# About Me
-
-> A software engineer and founder based in Letpadan. I’m the founder of Myanmar Cyber Youths and Web Dev Environment, where we develop technologies that empower regular people to explore space on their own terms.
-
-I’m Aung Myat Moe. I live in Letpadan, where I learn and develop for future.
-Letpadan is a small town where I grew up and had a buck of childhood memories. After I got my hands wet with Javascript, I soon discovered my passion was programming while hacking on some VPNs with Bash back in 2018.
-
-I have about three years of experience as a web developer and love working with Laravel, Vue, React, Next, and other hip frameworks. I have experience in developing web services.
-
-I enjoy building elegant, interactive effect heavy javascript applications with an eye on animated content. In my spare time, I fancy playing football with my mates. Every once in a while, I tend to explore catching-edge technologies.
-
-Aside from work, I’ve worked on little projects over the years. Many of them are open-source. Hence, you can check out and contribute the code if you see any matters and ideas about how it should be enhanced and maintained.
-
-
+## Are you stalking to me 🙄?
 ![Profile Viewer Counter](https://komarev.com/ghpvc/?username=amm834&color=brightgreen)
