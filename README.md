@@ -1,6 +1,3 @@
-> The future is "Distributed Serverless Microservices"
-> — Me
-
 ## Who am I?
 
 Go Google "Aung Myat Moe"
