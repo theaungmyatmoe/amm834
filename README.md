@@ -2,7 +2,7 @@
 
 Go Google "Aung Myat Moe"
 
-## Consulting?
+## Services?
 
 The key to success of your softwares businesses is consulation.
 [Secure your seat now!](https://calendar.app.google/JW2bDc65bMYQsFxS9)
